@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2023-07-11
+
+### Added
+
+- Just bumping to 1.1.0 and change composer.json version.
+
 ## [1.0.0] - 2023-07-11
 
 ### Added
