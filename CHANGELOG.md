@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2023-07-11
+
+### Added
+
+- bumping to 1.1.1 and change illuminate/support version
+- added .gitignore file
+
 ## [1.1.0] - 2023-07-11
 
 ### Added
