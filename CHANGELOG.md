@@ -1,0 +1,10 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2023-07-11
+
+### Added
+
+- Just bumping to version 1.0.0 to help in upgrading dependent laravel application.
+  d column.
